@@ -53,6 +53,8 @@ Java/Spring/JS/React/Rest API/JPA/MySQL
 
 <br>
 <h1> 구현 예정 기능 </h2>
+
+
 #프론트
 - python 기반 알고리즘 프로그램 조작할 수 있는 페이지 UI/UX 설계
 - React 에서 타입스크립트 적용
