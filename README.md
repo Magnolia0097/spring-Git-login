@@ -14,11 +14,22 @@ $./gradlew bootRun --args='--spring.profiles.active=dev'
 
 
 
+
+
+
 2. 프론트 엔드 파일은 vscode로 열어서
 npm install
 후 
 npm start 를 이용하여 실행합니다
 
 
+
+
+
+
+위 파일들은 배포가 안된 파일들이며
+AWS EC2를 사용하여 금일 배포 예정입니다
+
+배포 이후에는 새로운 레포지토리에 업로드 하겠습니다
 
 
