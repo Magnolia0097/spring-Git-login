@@ -7,3 +7,18 @@
 
 
 와 같이 파워셀 실행
+
+$./gradlew bootRun --args='--spring.profiles.active=dev'
+
+명령어 입력후 실행 
+
+
+
+2. 프론트 엔드 파일은 vscode로 열어서
+npm install
+후 
+npm start 를 이용하여 실행합니다
+
+
+
+
