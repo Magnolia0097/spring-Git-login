@@ -40,3 +40,12 @@ AWS EC2를 사용하여 금일 배포 예정입니다
 <h1>사용기술</h1>
 
 Java/Spring/JS/React/Rest API/JPA/MySQL
+
+
+
+<br>
+<h1>구현된 기능</h1>
+
+- CRUD 
+- 로그인 / 회원가입
+- Oauth2.0 github 로그인 / 회원가입
