@@ -49,3 +49,19 @@ Java/Spring/JS/React/Rest API/JPA/MySQL
 - CRUD 
 - 로그인 / 회원가입
 - Oauth2.0 github 로그인 / 회원가입
+
+
+<br>
+<h1> 구현 예정 기능 </h2>
+#프론트
+- python 기반 알고리즘 프로그램 조작할 수 있는 UI/UX 설계
+- React 에서 타입스크립트 적용
+- 페이지 수가 많아질 경우, 부트스트랩을 사용 중지하고 CSS 라이브러리를 이용해서 정리 및 리메이크
+- 사용자가 필요로하는 정보가 담긴 API를 사용하여 데이터 표시하기
+
+
+#백엔드
+- python 기반 알고리즘 프로그램과의 데이터베이스 공유를 위한 DB 설계 및 Entity 구현
+- redirect_url이 허용된 도메인을 가지고 있는지 확인할 수있게 만들기 (보안문제 위험)
+- Docker를 이용한 서비스 배포해보기
+- spring security 관련 추가 공부
