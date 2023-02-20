@@ -35,3 +35,8 @@ AWS EC2를 사용하여 금일 배포 예정입니다
 배포 이후에는 새로운 레포지토리에 업로드 하겠습니다
 
 
+
+<br>
+<h1>사용기술</h1>
+
+Java/Spring/JS/React/Rest API/JPA/MySQL
